@@ -1,0 +1,9 @@
+c:\users\darth\documents\visual studio 2015\Projects\tagTest\tagTest\bin\Debug\tagTest.exe.config
+c:\users\darth\documents\visual studio 2015\Projects\tagTest\tagTest\bin\Debug\tagTest.exe
+c:\users\darth\documents\visual studio 2015\Projects\tagTest\tagTest\bin\Debug\tagTest.pdb
+c:\users\darth\documents\visual studio 2015\Projects\tagTest\tagTest\bin\Debug\policy.2.0.taglib-sharp.dll
+c:\users\darth\documents\visual studio 2015\Projects\tagTest\tagTest\bin\Debug\taglib-sharp.dll
+c:\users\darth\documents\visual studio 2015\Projects\tagTest\tagTest\bin\Debug\policy.2.0.taglib-sharp.config
+c:\users\darth\documents\visual studio 2015\Projects\tagTest\tagTest\obj\Debug\tagTest.csprojResolveAssemblyReference.cache
+c:\users\darth\documents\visual studio 2015\Projects\tagTest\tagTest\obj\Debug\tagTest.exe
+c:\users\darth\documents\visual studio 2015\Projects\tagTest\tagTest\obj\Debug\tagTest.pdb
